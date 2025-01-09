@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Adidas",
+            "image": "images/product/n1.avif",
+            "price": 76,
+            "category": "Men Wear"
+        },
+
+        {
+            "id": 3,
+            "title": "Adidas",
+            "image": "images/female/a2.webp",
+            "price": 26,
+            "category": "Women Wear"
+        },
+        {
+            "id": 4,
+            "title": "Adidas",
+            "image": "images/female/a3.webp",
+            "price": 85,
+            "category": "Women Wear"
+        },
+        {
+            "id": 8,
+            "title": "Adidas",
+            "image": "images/product/f4.avif",
+            "price": 29,
+            "category": "Men Wear"
+        },
+        {
+            "id": 5,
+            "title": "Adidas",
+            "image": "images/female/a15.webp",
+            "price": 25,
+            "category": "Women Wear"
+        },
+
+        {
+            "id": 7,
+            "title": "Adidas",
+            "image": "images/female/a15.webp",
+            "price": 36,
+            "category": "Women Wear"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Adidas",
+            "image": "images/female/a5.webp",
+            "price": 38,
+            "category": "Women Wear"
+        },
+        {
+            "id": 11,
+            "title": "Adidas",
+            "image": "images/female/a6.webp",
+            "price": 47,
+            "category": "Women Wear"
+        },
+        {
+            "id": 13,
+            "title": "Adidas",
+            "image": "images/product/n5.avif",
+            "price": 80,
+            "category": "Men Wear"
+        },
+        {
+            "id": 12,
+            "title": "Adidas",
+            "image": "images/female/a4.webp",
+            "price": 85,
+            "category": "Women Wear"
+        },
+
+        {
+            "id": 14,
+            "title": "Adidas",
+            "image": "images/product/f6.avif",
+            "price": 36,
+            "category": "Men Wear"
+        },
+        {
+            "id": 9,
+            "title": "Adidas",
+            "image": "images/female/a8.webp",
+            "price": 32,
+            "category": "Women Wear"
+        },
+        {
+            "id": 15,
+            "title": "Adidas",
+            "image": "images/product/f7.avif",
+            "price": 30,
+            "category": "Men Wear"
+        },
+        {
+            "id": 16,
+            "title": "Adidas",
+            "image": "images/female/a9.webp",
+            "price": 40,
+            "category": "Women Wear"
+        },
+        {
+            "id": 17,
+            "title": "Adidas",
+            "image": "images/product/n5.avif",
+            "price": 55,
+            "category": "Men Wear"
+        },
+        {
+            "id": 2,
+            "title": "Adidas",
+            "image": "images/female/a10.webp",
+            "price": 30,
+            "category": "Women Wear"
+        },
+        {
+            "id": 18,
+            "title": "Adidas",
+            "image": "images/product/f2.avif",
+            "price": 63,
+            "category": "Men Wear"
+        },
+        {
+            "id": 20,
+            "title": "Adidas",
+            "image": "images/female/a11.webp",
+            "price": 270,
+            "category": "Women Wear"
+        },
+        {
+            "id": 19,
+            "title": "Adidas",
+            "image": "images/product/n6.avif",
+            "price": 25,
+            "category": "Men Wear"
+        },
+        {
+            "id": 1,
+            "title": "Adidas",
+            "image": "images/female/a12.webp",
+            "price": 26,
+            "category": "Women Wear"
+        },
+        {
+            "id": 24,
+            "title": "Adidas",
+            "image": "images/product/f8.avif",
+            "price": 50,
+            "category": "Men Wear"
+        },
+        {
+            "id": 21,
+            "title": "Adidas",
+            "image": "images/product/n8.avif",
+            "price": 70,
+            "category": "Men Wear"
+        },
+
+        {
+            "id": 25,
+            "title": "Adidas",
+            "image": "images/female/a14.webp",
+            "price": 450,
+            "category": "Women Wear"
+        },
+        {
+            "id": 22,
+            "title": "Adidas",
+            "image": "images/product/f8.avif",
+            "price": 46,
+            "category": "Men Wear"
+        },
+        {
+            "id": 23,
+            "title": "Adidas",
+            "image": "images/product/f7.webp",
+            "price": 60,
+            "category": "Men Wear"
+        }
+
+    ]
+}
